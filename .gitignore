@@ -7,6 +7,14 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+.lovable/
+.output/
+.wrangler/
+node_modules/
+dist/
+.env
+.env.local
+
 node_modules
 dist
 dist-ssr
